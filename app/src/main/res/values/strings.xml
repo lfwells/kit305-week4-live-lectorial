@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week4Lectorial</string>
+    <string-array name="names">
+        <item>John</item>
+        <item>Paul</item>
+        <item>George</item>
+        <item>Ringo</item>
+    </string-array>
+</resources>
